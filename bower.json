@@ -1,0 +1,17 @@
+{
+  "name": "RealtimeEmotions",
+  "version": "0.0.0",
+  "authors": [
+    "Benjamin Piouffle <benjamin.piouffle@gmail.com>"
+  ],
+  "description": "Real time emotions analyser using Microsoft Project Oxford Emotions API",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
