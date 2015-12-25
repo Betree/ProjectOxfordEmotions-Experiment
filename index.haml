@@ -2,5 +2,12 @@
 %html
   %head
     %title "Real time Emotions"
+    %link{rel: 'stylesheet', type: 'text/css', href: 'css/index.css'}
+    %script{src: 'bower_components/webcamjs/webcam.min.js'}
+    %script{src: 'bower_components/jquery/dist/jquery.min.js'}
+    %script{src: 'js/main.js'}
   %body
-    #webcam_canvas
+    #webcam_view
+    %button#btn_take_picture Take picture
+    %pre#result
+    #photo_copy

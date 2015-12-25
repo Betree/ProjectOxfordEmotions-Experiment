@@ -1,0 +1,12 @@
+#webcam_view, #photo_copy {
+  width: 450px;
+  height: 450px; }
+
+#result {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 500px;
+  height: 600px; }
+
+/*# sourceMappingURL=index.css.map */
