@@ -34,7 +34,7 @@
         url: 'https://api.projectoxford.ai/emotion/v1.0/recognize',
         type: 'POST',
         headers: {
-          'Ocp-Apim-Subscription-Key': '76469f52edef4e52a72bcd8a6f2dd07c'
+          'Ocp-Apim-Subscription-Key': 'YOUR_MICROSOFT_API_KEY'
         },
         contentType: 'application/octet-stream',
         data: blob,
